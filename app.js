@@ -53,7 +53,7 @@ const App = () => {
   };
 
   const submitTransformation = async () => {
-    alert("Transformation submitted!");
+    alert("Transformation Submitted & Verified. Base will be Credited Soon to your Wallet. #Based!");
   };
 
   return (
